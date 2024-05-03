@@ -1,16 +1,16 @@
  escrevendo...
-numero_solicitacao: Número da solicitação de crédito.
-razaoSocial: Nome jurídico dos clientes, é utilizada nos contratos e documentos oficiais do negócio, sendo anominizado significa que esses dados estao desvinculados do titular.
-nomeFantasia: Nome popular, sendo anominizado significa que esses dados estao desvinculados do titular.
-cnpjSemTraco: CPF da empresa, sendo anominizado significa que esses dados estao desvinculados do titular.
-maiorAtraso: Maior tempo em dias de atraso de pagamento.
-margemBrutaAcumulada: Lucratividade da empresa em cima dos clientes, ou seja, retorno de lucro do cliente.
-percentualProtestos: Processos nas costas dos manos!
-primeiraCompra: Data da primeira compra do cliente no credito 
-prazoMedioRecebimentoVendas: Média do retorno dos produtos por vendas dos clientes/lojas.
-titulosEmAberto: Processos de compra não concluidos (não pagos).
-valorSolicitado: Valor de crédito solicitado.
-status: Status da solicitação:
+- numero_solicitacao: Número da solicitação de crédito.
+- razaoSocial: Nome jurídico dos clientes, é utilizada nos contratos e documentos oficiais do negócio, sendo anominizado significa que esses dados estao desvinculados do titular.
+- nomeFantasia: Nome popular, sendo anominizado significa que esses dados estao desvinculados do titular.
+- cnpjSemTraco: CPF da empresa, sendo anominizado significa que esses dados estao desvinculados do titular.
+- maiorAtraso: Maior tempo em dias de atraso de pagamento.
+- margemBrutaAcumulada: Lucratividade da empresa em cima dos clientes, ou seja, retorno de lucro do cliente.
+- percentualProtestos: Processos nas costas dos manos!
+- primeiraCompra: Data da primeira compra do cliente no credito 
+- prazoMedioRecebimentoVendas: Média do retorno dos produtos por vendas dos clientes/lojas.
+- titulosEmAberto: Processos de compra não concluidos (não pagos).
+- valorSolicitado: Valor de crédito solicitado.
+- status: Status da solicitação:
     • AprovadoAnalista: aprovado por um analista
     • AprovadoComite: aprovado por um comitê, normalmente para valores mais expressivos
     • AguardandoAprovacao: aguardando aprovação
@@ -18,11 +18,22 @@ status: Status da solicitação:
     • EmAnaliseDocumentacao: em Análise da documentação
     • ReprovadoAnalista: reprovado por um analista
     • ReprovadoComite: reprovado por um comitê
-definicaoRisco: Percentual classificado de inadimplência. 
-percentualRisco: Percentual em decimais
-diferencaPercentualRisco: Diferença percentual (1- BAIXO, 0- ALTO).
-dashboardCorrelacao: ...
-valorAprovado: Quantia de crédito aprovado. 
+- definicaoRisco: Percentual classificado de inadimplência. 
+- percentualRisco: Percentual do risco em decimais
+- diferencaPercentualRisco: Diferença percentual (1- BAIXO, 0- ALTO).
+- dashboardCorrelacao: interdependência de risco, ou seja, 
+- diferentes fontes de risco que podem estão relacionadas e influenciam umas às outras.
+- valorAprovado: Quantia de crédito aprovado. 
+- dataAprovadoEmNivelAnalista: data de aprovação do crédito, pelo analista.
+- dataAprovadoEmComite: data de aprovação do crédito, pelo comitê.
+- periodoBalanco: intervalo de tempo específico para o qual as informações financeiras de uma empresa são relatadas.
+- ativoCirculante: representa os recursos financeiros e podem ser transformados em dinheiro.
+- passivoCirculante: representa as obrigações e dívidas que a empresa deve a terceiros.
+- totalAtivo: soma de todos os ativos da empresa.
+- totalPatrimonioLiquido: o que a empresa tem, levando em conta os ativos menos os passivos.
+- endividamento: o quanto a empresa deve de dinheiro, endividamento da empresa no geral 
+- duplicatasAReceber: 
+
 
 
 
