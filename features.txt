@@ -1,8 +1,8 @@
  escrevendo...
-- numero_solicitacao: Número da solicitação de crédito.
-- razaoSocial: Nome jurídico dos clientes, é utilizada nos contratos e documentos oficiais do negócio, sendo anominizado significa que esses dados estao desvinculados do titular.
-- nomeFantasia: Nome popular, sendo anominizado significa que esses dados estao desvinculados do titular.
-- cnpjSemTraco: CPF da empresa, sendo anominizado significa que esses dados estao desvinculados do titular.
+- *numero_solicitacao: Número da solicitação de crédito.
+- *razaoSocial: Nome jurídico dos clientes, é utilizada nos contratos e documentos oficiais do negócio, sendo anominizado significa que esses dados estao desvinculados do titular.
+- *nomeFantasia: Nome popular, sendo anominizado significa que esses dados estao desvinculados do titular.
+- *cnpjSemTraco: CPF da empresa, sendo anominizado significa que esses dados estao desvinculados do titular.
 - maiorAtraso: Maior tempo em dias de atraso de pagamento.
 - margemBrutaAcumulada: Lucratividade da empresa em cima dos clientes, ou seja, retorno de lucro do cliente.
 - percentualProtestos: Processos nas costas dos manos!
