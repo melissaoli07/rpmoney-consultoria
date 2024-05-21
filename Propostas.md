@@ -7,6 +7,12 @@ Features que contribuem para a:
     * prazoMedioRecebimentoVendas
     * titulosEmAberto
     * status
+    * definicaoRisco
+    * passivoCirculante
+    * endividamento
+    * faturamentoBruto
+    * restricoes
+    * scorePontualidade
     transformar em indice o maximo de colunas possivel
 * Prever a demanda futura com precisão para otimizar estoque.
     * maiorAtraso
@@ -14,3 +20,6 @@ Features que contribuem para a:
     * prazoMedioRecebimentoVendas
     * valorSolicitado (se na coluna tiver muitos valores altos é conveniente aumentar o investimento em mercadoria)
     * status
+    * valorAprovado
+    * estoque
+    * custos

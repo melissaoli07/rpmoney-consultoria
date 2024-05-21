@@ -19,31 +19,31 @@
     • ReprovadoAnalista: reprovado por um analista
     • ReprovadoComite: reprovado por um comitê
 - definicaoRisco: Percentual classificado de inadimplência. 
-- percentualRisco: Percentual do risco em decimais
-- diferencaPercentualRisco: Diferença percentual (1- BAIXO, 0- ALTO).
-- dashboardCorrelacao: interdependência de risco, ou seja, 
+- *percentualRisco: Percentual do risco em decimais
+- *diferencaPercentualRisco: Diferença percentual (1- BAIXO, 0- ALTO).
+- *dashboardCorrelacao: interdependência de risco, ou seja, 
 diferentes fontes de risco que podem estão relacionadas e influenciam umas às outras.
 - valorAprovado: Quantia de crédito aprovado. 
-- dataAprovadoEmNivelAnalista: data de aprovação do crédito, pelo analista.
-- dataAprovadoEmComite: data de aprovação do crédito, pelo comitê.
-- periodoBalanco: intervalo de tempo específico para o qual as informações financeiras de uma empresa são relatadas.
-- ativoCirculante: representa os recursos financeiros e podem ser transformados em dinheiro.
-- passivoCirculante: representa as obrigações e dívidas que a empresa deve a terceiros.
-- totalAtivo: soma de todos os ativos da empresa.
-- totalPatrimonioLiquido: o que a empresa tem, levando em conta os ativos menos os passivos.
+- *dataAprovadoEmNivelAnalista: data de aprovação do crédito, pelo analista.
+- *dataAprovadoEmComite: data de aprovação do crédito, pelo comitê.
+- *periodoBalanco: intervalo de tempo específico para o qual as informações financeiras de uma empresa são relatadas.
+- *ativoCirculante: representa os recursos financeiros e podem ser transformados em dinheiro.
+- *passivoCirculante: representa as obrigações e dívidas que a empresa deve a terceiros.
+- *totalAtivo: soma de todos os ativos da empresa.
+- *totalPatrimonioLiquido: o que a empresa tem, levando em conta os ativos menos os passivos.
 - endividamento: o quanto a empresa deve de dinheiro, endividamento da empresa no geral 
-- duplicatasAReceber: valores a serem recebidos pela empresa de seus clientes.
+- *duplicatasAReceber: valores a serem recebidos pela empresa de seus clientes.
 - estoque: os bens ou mercadorias que a empresa possui (quantidade)
 - faturamentoBruto: o montante total de vendas ou receitas da empresa antes de quaisquer subtrações.
-- margemBruta: a margem bruta é a proporção de lucro bruto em relação ao faturamento bruto.
-- periodoDemonstrativoEmMeses: intervalo de tempo para o qual um demonstrativo financeiro ou contábil está sendo preparado ou apresentado, expresso em meses.
+- *margemBruta: a margem bruta é a proporção de lucro bruto em relação ao faturamento bruto.
+- *periodoDemonstrativoEmMeses: intervalo de tempo para o qual um demonstrativo financeiro ou contábil está sendo preparado ou apresentado, expresso em meses.
 - custos: os gastos associados à produção de bens ou à prestação de serviços.
-- limiteEmpresaAnaliseCredito: se refere ao valor máximo de crédito que a empresa pode obter de um credor, como um banco ou fornecedor, com base na análise de sua capacidade financeira e histórico de pagamento.
-- anoFundacao: ano em que a empresa foi estabelecida ou fundada.
-- intervaloFundacao: organização/categorização da empresa com base no ano em que foi fundada.
-- capitalSocial: se refere ao valor total dos recursos financeiros e ativos que os acionistas ou proprietários investiram na empresa em troca de ações ou cotas de propriedade.
+- *limiteEmpresaAnaliseCredito: se refere ao valor máximo de crédito que a empresa pode obter de um credor, como um banco ou fornecedor, com base na análise de sua capacidade financeira e histórico de pagamento.
+- *anoFundacao: ano em que a empresa foi estabelecida ou fundada.
+- *intervaloFundacao: organização/categorização da empresa com base no ano em que foi fundada.
+- *capitalSocial: se refere ao valor total dos recursos financeiros e ativos que os acionistas ou proprietários investiram na empresa em troca de ações ou cotas de propriedade.
 - restricoes: uma marcação que indica se um cliente ou uma entidade está sujeito a algum tipo de restrição ou limitação específica.
-- empresa_MeEppMei: designação utilizada para categorizar o porte de uma empresa de acordo com sua estrutura e faturamento. (Empresa ME (Microempresa), EPP (Empresa de Pequeno Porte) ou MEI (Microempreendedor Individual)).
+- *empresa_MeEppMei: designação utilizada para categorizar o porte de uma empresa de acordo com sua estrutura e faturamento. (Empresa ME (Microempresa), EPP (Empresa de Pequeno Porte) ou MEI (Microempreendedor Individual)).
 - scorePontualidade:  uma medida que avalia o histórico de pagamentos de um indivíduo ou empresa, indicando o quão pontualmente eles realizam seus pagamentos de contas e obrigações financeiras.
 
 
