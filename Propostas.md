@@ -14,12 +14,3 @@ Features que contribuem para a:
     * restricoes
     * scorePontualidade
     transformar em indice o maximo de colunas possivel
-* Prever a demanda futura com precisão para otimizar estoque.
-    * maiorAtraso
-    * margemBrutaAcumulada (o quanto abx tem lucro em cima desse cliente)
-    * prazoMedioRecebimentoVendas
-    * valorSolicitado (se na coluna tiver muitos valores altos é conveniente aumentar o investimento em mercadoria)
-    * status
-    * valorAprovado
-    * estoque
-    * custos
